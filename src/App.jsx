@@ -234,7 +234,7 @@ export default function App() {
         {/* Profile Picture */}
         <div className="w-20 h-20 md:w-32 md:h-32 rounded-full overflow-hidden border-2 md:border-4 border-sky-400 shadow-[0_0_20px_rgba(56,189,248,0.3)] shrink-0">
           <img 
-            src="/profile.jpg" 
+            src="./profile.jpg" 
             alt="Mrudul Satika" 
             className="w-full h-full object-cover"
           />
